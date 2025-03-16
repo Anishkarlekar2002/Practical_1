@@ -39,7 +39,7 @@ function add(a,d){return a - b}
 // Line 39
 // Line 40
 // Line 41
-// Line 42
+console.log(undefinedVariable);
 // Line 43
 // Line 44
 // Line 45
